@@ -7,12 +7,10 @@ public class ListComparision2 {
 		List<String> list = new ArrayList<>();
 		list.add("Vinay");
 		list.add("hi");
-		list.add("hi");
 		list.add("ks");
 		list.add("sai");
 
 		List<String> list1 = new ArrayList<>();
-		list1.add("hi");
 		list1.add("sai");
 		list1.add("hi");
 		list1.add("new");

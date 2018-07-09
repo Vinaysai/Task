@@ -13,11 +13,8 @@ public class ListComparision {
 		lista.add("sai");
 		lista.add("ks");
 		lista.add("hi");
-		lista.add("hi");
-		lista.add("sai");
 
 		listb.add("sai");
-		listb.add("hi");
 		listb.add("hi");
 		listb.add("welcome");
 
